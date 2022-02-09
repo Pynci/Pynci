@@ -1,16 +1,18 @@
-### Hi there 👋
+#### Oh, you landed on my profile!
+## Hi! 👋 My name is Luca Pinciroli, aka Pynci! :man_student:
 
-<!--
-**Pynci/Pynci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me:
+* I'm a computer science student (unimib) 🧑‍🎓
+* I love coding :computer:, gaming :video_game: and motorsports (especially Formula 1 :racing_car:)
+* My goal is to discover 🧭, study 📚 and learn 👨‍💻 new things about programming and technology
 
-Here are some ideas to get you started:
+### Languages I use:
+* Java ☕
+* C 🧮
+* HTML, CSS, JavaScript/jQuery 🖥️
+* PHP/SQL :cd:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current goals:
+* I want to start learning Python 🐍
+* I would try to build my first mobile app 📱
+* and continue to develop an ambicious personal project 💡
