@@ -8,9 +8,9 @@
 
 ### Languages I use:
 * Java ☕
-* C 🧮
 * HTML, CSS, JavaScript/jQuery 🖥️
 * PHP/SQL :cd:
+* C (not so often) 🧮
 
 ### Current goals:
 * I want to start learning Python 🐍
