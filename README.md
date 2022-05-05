@@ -14,6 +14,6 @@
 
 ### Current goals:
 * I want to start learning Python 🐍
-* I aim to learn how to properly use a UI framework 🎨
-* I would try to build my first mobile app 📱
-* and continue to develop an ambicious personal project 💡
+* In my free time I'm interested in learning javascript deeply 💻
+* I'm also curious about Ruby and Ruby on rails 🟥
+* and continue to develop an ambicious personal project in my free time 💡
