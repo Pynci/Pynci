@@ -14,6 +14,6 @@
 
 ### Current goals:
 * I want to start learning Python 🐍
-* In my free time I'm interested in learning javascript deeply 💻
+* In my free time I'm interested in learning JavaScript deeply 💻
 * I'm also curious about Ruby and Ruby on rails 🟥
 * and continue to develop an ambicious personal project in my free time 💡
