@@ -10,7 +10,7 @@
 * Java ☕
 * HTML, CSS, JavaScript/jQuery 🖥️
 * PHP/SQL :cd:
-* C (not so often) 🧮
+* C (very rarely) 🧮
 
 ### Current goals:
 * I want to start learning Python 🐍
