@@ -1,5 +1,4 @@
-#### Wow, you landed on my profile!
-## Hi! 👋 My name is Luca Pinciroli, aka Pynci! :man_student:
+## Hi, my name is Luca Pinciroli! 👋 
 
 ### About me:
 * I'm a computer science student (unimib) 🧑‍🎓
