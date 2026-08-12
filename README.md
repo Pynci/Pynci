@@ -7,9 +7,7 @@
 
 ---
 
-<div align="left">
-    <img src="https://raw.githubusercontent.com/Pynci/github-stats/generated/overview.svg#gh-dark-mode-only">
-    <img src="https://raw.githubusercontent.com/Pynci/github-stats/generated/overview.svg#gh-light-mode-only">
-    <img src="https://raw.githubusercontent.com/Pynci/github-stats/generated/languages.svg#gh-dark-mode-only">
-    <img src="https://raw.githubusercontent.com/Pynci/github-stats/generated/languages.svg#gh-light-mode-only">
-</div>
+![](https://github.com/Pynci/github-stats/blob/generated/overview.svg#gh-dark-mode-only)
+![](https://github.com/Pynci/github-stats/blob/generated/overview.svg#gh-light-mode-only)
+![](https://github.com/Pynci/github-stats/blob/generated/languages.svg#gh-dark-mode-only)
+![](https://github.com/Pynci/github-stats/blob/generated/languages.svg#gh-light-mode-only)
